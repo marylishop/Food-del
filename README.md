@@ -47,5 +47,6 @@ cd ../backend
 npm install
 ```
 # Open a new terminal in the `frontend/` directory
+```
 npm run dev
-
+```
