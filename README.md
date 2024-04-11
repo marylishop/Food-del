@@ -1,4 +1,4 @@
-# FeastFinder: A MERN Stack Food Delivery App
+# Morocco yummy : A MERN Stack Food Delivery App
 
 FeastFinder is a full-stack web application designed to bring the convenience of food delivery to users with just a few clicks. Built with the MERN stack (MongoDB, Express, React, and Node.js), this app features a sleek user interface for browsing menus and food items, a cart system for order management, and a secure sign-in/sign-up functionality. This README outlines the project setup, features, and future enhancements.
 
