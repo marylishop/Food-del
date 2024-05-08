@@ -35,8 +35,8 @@ FOODIC is a full-stack web application designed to bring the convenience of food
 
 1. Clone the repository to your local machine.
    ```sh
-   git clone https://github.com/your-username/feastfinder.git
-   cd feastfinder
+   git clone https://github.com/your-username/Food-del.git
+   cd Food-del
 ```
 # Install frontend dependencies
 cd frontend
